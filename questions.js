@@ -1,4 +1,4 @@
-export const easyNorseMythologyQuestions = [
+const easyNorseMythologyQuestions = [
     {
       question: "Who is the chief god in Norse mythology?",
       answer: "Odin",
@@ -42,7 +42,7 @@ export const easyNorseMythologyQuestions = [
   ];
 
 
-export  const mediumNorseMythologyQuestions = [
+const mediumNorseMythologyQuestions = [
     {
       question: "What is the name of Odin's magical, eight-legged horse?",
       answer: "Sleipnir",
@@ -86,7 +86,7 @@ export  const mediumNorseMythologyQuestions = [
   ];
 
 
-export  const hardNorseMythologyQuestions = [
+const hardNorseMythologyQuestions = [
     {
       question: "What is the name of the ship made from the fingernails of the dead that will carry the giants during Ragnarök?",
       answer: "Naglfar",
